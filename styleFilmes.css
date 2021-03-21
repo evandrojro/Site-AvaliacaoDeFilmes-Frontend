@@ -1,0 +1,82 @@
+body {
+    background-image: url("bg1.jpg");
+    background-size: cover;
+    background-repeat: no-repeat; 
+}
+
+div{
+    background-color: white;
+}
+div .card-body {
+    text-align: center;
+}
+
+div .card-title{
+    font-size: 30px;
+    font-style: inherit;
+    font-family: Trebuchet MS", Helvetica, sans-serif
+}
+
+div .navbar{
+    border-radius: 5px 5px 5px;
+    position: justify;
+}
+ #navbar {
+     position: center;
+     text-align: justify;
+     border-radius: 5px;
+ }
+ 
+#quadrado-titulo{
+     background-color:whitesmoke;
+     font-family: 'Courier New', Courier, monospace;
+     font-size: 60%;
+     border-radius: 5px;
+     box-sizing: content-box;
+     margin-left: 200px;
+     margin-right: 200px;
+ }
+
+#foto-capa{
+    margin-left: 200px;
+    margin-right: 200px;
+    border-radius: 5px;
+}
+#quadrado-titulo h3{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+}
+
+#infFilme{
+        margin-left: 200px;
+        margin-right: 200px;
+        border-radius: 5px;
+}
+#infosFilme{
+    background-color: white;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+#informacoes{
+    background-color:white;
+}
+#comentarios{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+    text-decoration-color: black;
+    text-align: justify
+}
+.área{
+    font-size: 30px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+}
+    
+
+
+
+
+
+
+
+
